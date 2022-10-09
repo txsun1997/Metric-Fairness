@@ -32,7 +32,7 @@ If all is well, you should obtain the following results:
 +-------------------------+-------+--------+---------------------+------+----------+---------------+
 |          metric         |  age  | gender | physical-appearance | race | religion | socioeconomic |
 +-------------------------+-------+--------+---------------------+------+----------+---------------+
-|  bartscore-bart-base-f  |  3.83 |  3.67  |         6.04        | 2.44 |   5.97   |      6.65     |
+|  bartscore-bart-base-f  |  6.2  |  3.67  |         6.04        | 2.44 |   5.97   |      6.65     |
 |  bartscore-bart-base-p  |  6.51 |  6.5   |         7.59        | 2.6  |   7.63   |      8.0      |
 |  bartscore-bart-base-r  |  7.1  |  2.47  |         8.44        | 2.52 |   7.12   |      7.55     |
 |  bartscore-bart-large-f |  3.83 |  9.47  |         6.38        | 1.67 |   4.7    |      3.47     |
