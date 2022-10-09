@@ -17,7 +17,7 @@ Our work includes:
 
 ## Measure Metric Bias
 
-We have uploaded our constructed datasets for measuring metric bias (see `./measuring_bias/data`). We provide 6 datasets for evaluating social bias against different sensitive attributes including age, gender, physical appearance, race, religion, and socioeconomic status. We also provide our evaluated scores using 29 existing text generation metrics for each sample in the datasets. You can reproduce our results as follows:
+We have uploaded our constructed datasets for measuring metric bias (see [/measuring_bias/data](/measuring_bias/data)). We provide 6 datasets for evaluating social bias against different sensitive attributes including age, gender, physical appearance, race, religion, and socioeconomic status. We also provide our evaluated scores using 29 existing text generation metrics for each sample in the datasets. You can reproduce our results as follows:
 
 ```bash
 pip install prettytable
