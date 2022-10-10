@@ -89,7 +89,7 @@ pip install -r requirements.txt
 bash metrics.sh
 ```
 
-would result in a output file named `scores.csv` by default which contains scores of our physical-appearance bias dataset
+would result in a output file named `scores.csv` by default which contains scores of our gender bias dataset
 
 then, you can run 
 
@@ -107,9 +107,9 @@ and both would result in a tiny table (with polarity False):
 
 ```
 +------+-------+--------+------+------+-------------+-------------+-------------+------------+--------+---------+---------+---------+-------------+-------------+-------------+-------------+
-| bleu | rouge | meteor | nist | chrf | bertscore_r | bertscore_p | bertscore_f | moverscore | bleurt | prism_r | prism_p | prism_f | bartscore_r | bartscore_p | bartscore_f | frugalscore |
+| bleu | rouge | meteor | nist | chrf | bertscore_r | bertscore_P | bertscore_f | moverscore | bleurt | prism_r | prism_P | prism_f | bartscore_r | bartscore_P | bartscore_f | frugalscore |
 +------+-------+--------+------+------+-------------+-------------+-------------+------------+--------+---------+---------+---------+-------------+-------------+-------------+-------------+
-| 0.94 |  2.01 |  3.18  | 1.03 | 1.57 |     5.17    |     9.87    |     7.94    |    4.95    | 12.93  |   7.13  |   7.05  |   7.48  |     4.92    |     6.42    |     6.38    |     5.28    |
+| 0.1  |  0.21 |  2.14  | 0.12 | 1.23 |     4.61    |     9.04    |     6.99    |   13.24    |  30.0  |   3.0   |  14.33  |   7.13  |     3.69    |    14.17    |     9.47    |     3.19    |
 +------+-------+--------+------+------+-------------+-------------+-------------+------------+--------+---------+---------+---------+-------------+-------------+-------------+-------------+
 ```
 
