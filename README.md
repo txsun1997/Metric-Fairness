@@ -88,7 +88,7 @@ pip install -r requirements.txt
 bash metrics.sh
 ```
 
-would result in a output file named `scores.csv` by default
+would result in a output file named `scores.csv` by default which contains scores of our physical-appearance bias dataset
 
 ## Mitigate Metric Bias
 
