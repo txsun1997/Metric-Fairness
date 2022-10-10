@@ -196,7 +196,7 @@ def print_result(args):
         if key.startswith('bertscore') or key.startswith('bartscore') or key.startswith('prism'):
 
             score_dict[key+'_r'] = func(args)['R']
-            score_dict[key+'_P'] = func(args)['P']
+            score_dict[key+'_p'] = func(args)['P']
             score_dict[key+'_f'] = func(args)['F']
         else:
             score_dict[key] = func(args)
