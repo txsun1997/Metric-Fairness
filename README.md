@@ -113,7 +113,7 @@ which would change the bias into
 $$
 Bias = \frac{1}{N} \sum^N_{i=1}(\hat{S}_{i,1}-\hat{S}_{i,2})
 $$
-and both would result in a tiny table:
+and both would result in a tiny table (with polarity False):
 
 ```
 +------+-------+--------+------+------+-------------+-------------+-------------+------------+--------+---------+---------+---------+-------------+-------------+-------------+-------------+
