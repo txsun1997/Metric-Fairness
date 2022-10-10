@@ -81,6 +81,15 @@ would result in a tiny table:
 +--------+------+--------+
 ```
 
+You can see the exact details of how we calculated each score by checking metrics.py, and if you need to calculate scores of default backbones, run
+
+```bash
+pip install -r requirements.txt
+bash metrics.sh
+```
+
+would result in a output file named scores.csv by default
+
 ## Mitigate Metric Bias
 
 We are sorting out the code and data for mitigating metric bias. Watch this repository for the latest updates!
