@@ -1,3 +1,4 @@
+adapter_transformers==3.0.1
 bert_score==0.3.11
 datasets==2.4.0
 fairseq==0.9.0
@@ -5,6 +6,7 @@ matplotlib==3.5.1
 nltk==3.7
 numpy==1.23.3
 pandas==1.4.2
+prettytable==3.3.0
 pyemd==0.5.1
 rouge_score==0.1.2
 sacrebleu==2.0.0

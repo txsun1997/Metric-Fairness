@@ -84,11 +84,46 @@ would result in a tiny table:
 You can see the exact details of how we calculated each score by checking `metrics.py`, and if you need to calculate scores of default backbones, run
 
 ```bash
+cd metrics
 pip install -r requirements.txt
 bash metrics.sh
 ```
 
 would result in a output file named `scores.csv` by default which contains scores of our physical-appearance bias dataset
+
+then, you can run 
+
+```bash
+python cal_bias_score.py --polarity False
+```
+
+to get quantized bias, which would be calculated as
+
+$$
+\hat{S}=\frac{S-S_{min}}{S_{max}-S_{min}}\times 100 \\
+Bias = \frac{1}{N} \sum^N_{i=1}|\hat{S}_{i,1}-\hat{S}_{i,2}|
+$$
+or run
+
+```bash
+python cal_bias_score.py --polarity True
+```
+
+which would change the bias into
+$$
+Bias = \frac{1}{N} \sum^N_{i=1}(\hat{S}_{i,1}-\hat{S}_{i,2})
+$$
+and both would result in a tiny table:
+
+```
++------+-------+--------+------+------+-------------+-------------+-------------+------------+--------+---------+---------+---------+-------------+-------------+-------------+-------------+
+| bleu | rouge | meteor | nist | chrf | bertscore_r | bertscore_P | bertscore_f | moverscore | bleurt | prism_r | prism_P | prism_f | bartscore_r | bartscore_P | bartscore_f | frugalscore |
++------+-------+--------+------+------+-------------+-------------+-------------+------------+--------+---------+---------+---------+-------------+-------------+-------------+-------------+
+| 0.94 |  2.01 |  3.18  | 1.03 | 1.57 |     5.17    |     9.87    |     7.94    |    4.95    | 12.93  |   7.13  |   7.05  |   7.48  |     4.92    |     6.42    |     6.38    |     5.28    |
++------+-------+--------+------+------+-------------+-------------+-------------+------------+--------+---------+---------+---------+-------------+-------------+-------------+-------------+
+```
+
+
 
 ## Mitigate Metric Bias
 
