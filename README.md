@@ -97,13 +97,14 @@ then, you can run
 python cal_bias_score.py --polarity False
 ```
 
-to get quantized bias, or run
+to get quantized bias without polarity
+or run
 
 ```bash
 python cal_bias_score.py --polarity True
 ```
-
-and both would result in a tiny table (with polarity False):
+to get quantized bias with polarity
+and each would result in a tiny table (with polarity False as an example):
 
 ```
 +------+-------+--------+------+------+-------------+-------------+-------------+------------+--------+---------+---------+---------+-------------+-------------+-------------+-------------+
