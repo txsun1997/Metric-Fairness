@@ -97,22 +97,12 @@ then, you can run
 python cal_bias_score.py --polarity False
 ```
 
-to get quantized bias, which would be calculated as
-
-$$
-\hat{S}=\frac{S-S_{min}}{S_{max}-S_{min}}\times 100 \\
-Bias = \frac{1}{N} \sum^N_{i=1}|\hat{S}_{i,1}-\hat{S}_{i,2}|
-$$
-or run
+to get quantized bias, or run
 
 ```bash
 python cal_bias_score.py --polarity True
 ```
 
-which would change the bias into
-$$
-Bias = \frac{1}{N} \sum^N_{i=1}(\hat{S}_{i,1}-\hat{S}_{i,2})
-$$
 and both would result in a tiny table (with polarity False):
 
 ```
