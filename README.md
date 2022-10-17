@@ -1,5 +1,5 @@
 # Metric Fairness: Is BERTScore Fair?
-This repository contains the code and data for our EMNLP paper [BERTScore is Unfair: On Social Bias in Language Model-Based Metrics for Text Generation](https://txsun1997.github.io/papers/metric_bias.pdf).
+This repository contains the code and data for our EMNLP paper [BERTScore is Unfair: On Social Bias in Language Model-Based Metrics for Text Generation](https://arxiv.org/abs/2210.07626).
 
 ## Overview
 
