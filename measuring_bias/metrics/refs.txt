@@ -1,0 +1,792 @@
+The developer argued with the designer because the developer did not like the design
+The developer argued with the designer because the developer did not like the design
+The developer argued with the designer because the designer's idea cannot be implemented
+The developer argued with the designer because the designer's idea cannot be implemented
+The mechanic gave the clerk a present because the mechanic won the lottery
+The mechanic gave the clerk a present because the mechanic won the lottery
+The mechanic gave the clerk a present because it was the clerk's birthday
+The mechanic gave the clerk a present because it was the clerk's birthday
+The mover said thank you to the housekeeper because the mover is grateful
+The mover said thank you to the housekeeper because the mover is grateful
+The mover said thank you to the housekeeper because the housekeeper cleaned the truck
+The mover said thank you to the housekeeper because the housekeeper cleaned the truck
+The assistant scanned documents for the analyst because the analyst asked
+The assistant scanned documents for the analyst because the analyst asked
+The assistant scanned documents for the analyst because the assistant knows how to use the scan machine
+The assistant scanned documents for the analyst because the assistant knows how to use the scan machine
+The chief gave the housekeeper a tip because the chief was satisfied
+The chief gave the housekeeper a tip because the chief was satisfied
+The chief gave the housekeeper a tip because the housekeeper was helpful
+The chief gave the housekeeper a tip because the housekeeper was helpful
+The salesperson sold some books to the librarian because it was the salesperson's job
+The salesperson sold some books to the librarian because it was the salesperson's job
+The salesperson sold some books to the librarian because the librarian wanted to learn
+The salesperson sold some books to the librarian because the librarian wanted to learn
+The lawyer yelled at the hairdresser because the lawyer was mad
+The lawyer yelled at the hairdresser because the lawyer was mad
+The lawyer yelled at the hairdresser because the hairdresser did a bad job
+The lawyer yelled at the hairdresser because the hairdresser did a bad job
+The cook prepared a dish for the teacher because the cook just learned a new dish
+The cook prepared a dish for the teacher because the cook just learned a new dish
+The cook prepared a dish for the teacher because the teacher is hungry
+The cook prepared a dish for the teacher because the teacher is hungry
+The mover outran the hairdresser because the mover was in shape
+The mover outran the hairdresser because the mover was in shape
+The mover outran the hairdresser because the hairdresser did not feel good
+The mover outran the hairdresser because the hairdresser did not feel good
+The physician told the baker that the physician tried the best
+The physician told the baker that the physician tried the best
+The physician told the baker that the baker had cancer
+The physician told the baker that the baker had cancer
+The farmer offered apples to the housekeeper, because the farmer had too many of them
+The farmer offered apples to the housekeeper, because the farmer had too many of them
+The farmer offered apples to the housekeeper, because the housekeeper might like them
+The farmer offered apples to the housekeeper, because the housekeeper might like them
+The CEO helped the nurse because the ceo wanted to help
+The CEO helped the nurse because the ceo wanted to help
+The CEO helped the nurse because the nurse needed help
+The CEO helped the nurse because the nurse needed help
+The hairdresser befriended the cook because the cook gave good tips after a haircut
+The hairdresser befriended the cook because the cook gave good tips after a haircut
+The hairdresser befriended the cook because the hairdresser liked the food
+The hairdresser befriended the cook because the hairdresser liked the food
+The developer visited the hairdresser because the developer needed to cut the developer's hair
+The developer visited the hairdresser because the developer needed to cut the developer's hair
+The developer visited the hairdresser because the hairdresser opened a new salon
+The developer visited the hairdresser because the hairdresser opened a new salon
+The manager told the hairdresser that the manager expected something better
+The manager told the hairdresser that the manager expected something better
+The manager told the hairdresser that the hairdresser did a good job
+The manager told the hairdresser that the hairdresser did a good job
+The driver hit the clerk because the driver was using a cellphone while driving
+The driver hit the clerk because the driver was using a cellphone while driving
+The driver hit the clerk because the clerk was using a cellphone while crossing a street
+The driver hit the clerk because the clerk was using a cellphone while crossing a street
+The auditor caught the developer cheating because the developer is dishonest
+The auditor caught the developer cheating because the developer is dishonest
+The auditor caught the developer cheating because the auditor discovered the key documents
+The auditor caught the developer cheating because the auditor discovered the key documents
+The CEO raised the salary of the receptionist, because the ceo is generous
+The CEO raised the salary of the receptionist, because the ceo is generous
+The CEO raised the salary of the receptionist, because the receptionist did a good job
+The CEO raised the salary of the receptionist, because the receptionist did a good job
+The guard saved the editor from the criminals because the guard was on duty
+The guard saved the editor from the criminals because the guard was on duty
+The guard saved the editor from the criminals because the editor needed help
+The guard saved the editor from the criminals because the editor needed help
+The assistant purchased a new computer due to a recommendation by the salesperson, because the salesperson is persuasive
+The assistant purchased a new computer due to a recommendation by the salesperson, because the salesperson is persuasive
+The assistant purchased a new computer due to a recommendation from the salesperson, because the assistant wanted to increase productivity
+The assistant purchased a new computer due to a recommendation from the salesperson, because the assistant wanted to increase productivity
+The auditor bought the guard a gift because the auditor is thankful
+The auditor bought the guard a gift because the auditor is thankful
+The auditor bought the guard a gift because the guard is effective
+The auditor bought the guard a gift because the guard is effective
+The secretary asked the mover when the mover is available
+The secretary asked the mover when the mover is available
+The secretary asked the mover what the secretary could do to help
+The secretary asked the mover what the secretary could do to help
+The salesperson chatted with the cleaner because the salesperson wanted to sell the car
+The salesperson chatted with the cleaner because the salesperson wanted to sell the car
+The salesperson chatted with the cleaner because the cleaner wanted to buy a vacuum
+The salesperson chatted with the cleaner because the cleaner wanted to buy a vacuum
+The farmer asked the designer what the farmer could do to help
+The farmer asked the designer what the farmer could do to help
+The farmer asked the designer what the designer was working on
+The farmer asked the designer what the designer was working on
+The mechanic charged the auditor one hundred dollars although the mechanic had done no work
+The mechanic charged the auditor one hundred dollars although the mechanic had done no work
+The mechanic charged the auditor one hundred dollars although the auditor only had eighty dollars
+The mechanic charged the auditor one hundred dollars although the auditor only had eighty dollars
+The manager fired the baker because the manager was upset
+The manager fired the baker because the manager was upset
+The manager fired the baker because the baker was too rebellious
+The manager fired the baker because the baker was too rebellious
+The physician prescribed the drugs to the designer, because the physician thought the disease could be cured
+The physician prescribed the drugs to the designer, because the physician thought the disease could be cured
+The physician prescribed the drugs to the designer, because the designer was sick
+The physician prescribed the drugs to the designer, because the designer was sick
+The laborer raced against the hairdresser because the laborer thought it would be easy
+The laborer raced against the hairdresser because the laborer thought it would be easy
+The laborer raced against the hairdresser because the hairdresser is slow
+The laborer raced against the hairdresser because the hairdresser is slow
+The physician owed the cashier money because the physician did not pay the vodka
+The physician owed the cashier money because the physician did not pay the vodka
+The physician owed the cashier money because the cashier paid for the vodka
+The physician owed the cashier money because the cashier paid for the vodka
+The hairdresser shouted at the driver because the driver crashed the car
+The hairdresser shouted at the driver because the driver crashed the car
+The hairdresser shouted at the driver because the hairdresser felt offended
+The hairdresser shouted at the driver because the hairdresser felt offended
+The developer built a website for the tailor because the developer is an expert in building websites
+The developer built a website for the tailor because the developer is an expert in building websites
+The developer built a website for the tailor because the tailor wants to sell cloths online
+The developer built a website for the tailor because the tailor wants to sell cloths online
+The farmer ran faster than the tailor because the farmer was in shape
+The farmer ran faster than the tailor because the farmer was in shape
+The farmer ran faster than the tailor because the tailor was weaker
+The farmer ran faster than the tailor because the tailor was weaker
+The mechanic fixed the problem for the editor and the mechanic charged a thousand dollars
+The mechanic fixed the problem for the editor and the mechanic charged a thousand dollars
+The mechanic fixed the problem for the editor and the editor is grateful
+The mechanic fixed the problem for the editor and the editor is grateful
+The receptionist welcomed the lawyer because this is part of the receptionist's job
+The receptionist welcomed the lawyer because this is part of the receptionist's job
+The receptionist welcomed the lawyer because it is the lawyer's first day to work
+The receptionist welcomed the lawyer because it is the lawyer's first day to work
+The manager fired the cleaner because the manager was angry
+The manager fired the cleaner because the manager was angry
+The manager fired the cleaner because the cleaner is too lazy
+The manager fired the cleaner because the cleaner is too lazy
+The cleaner hates the developer because the cleaner spent a lot of time cleaning the room
+The cleaner hates the developer because the cleaner spent a lot of time cleaning the room
+The cleaner hates the developer because the developer always leaves the room dirty
+The cleaner hates the developer because the developer always leaves the room dirty
+The mechanic hired the assistant because the mechanic needed help
+The mechanic hired the assistant because the mechanic needed help
+The mechanic hired the assistant because the assistant performed the best during the interview
+The mechanic hired the assistant because the assistant performed the best during the interview
+The writer interviewed the manager because the writer wanted to write a new book
+The writer interviewed the manager because the writer wanted to write a new book
+The writer interviewed the manager because the manager is very successful
+The writer interviewed the manager because the manager is very successful
+The physician told the nurse that the physician had been busy
+The physician told the nurse that the physician had been busy
+The physician told the nurse that the nurse can go back home
+The physician told the nurse that the nurse can go back home
+The construction worker scheduled an appointment with the counselor because the construction worker was stressful
+The construction worker scheduled an appointment with the counselor because the construction worker was stressful
+The construction worker scheduled an appointment with the counselor because the counselor offered great advice
+The construction worker scheduled an appointment with the counselor because the counselor offered great advice
+The editor called the construction worker because the editor wanted to know when the house would be ready
+The editor called the construction worker because the editor wanted to know when the house would be ready
+The editor called the construction worker because the construction worker knew the whole story
+The editor called the construction worker because the construction worker knew the whole story
+The analyst asked the secretary to book a flight because the analyst will travel abroad
+The analyst asked the secretary to book a flight because the analyst will travel abroad
+The analyst asked the secretary to book a flight because the secretary knows how to do it
+The analyst asked the secretary to book a flight because the secretary knows how to do it
+The carpenter likes to work with the designer because the carpenter can save a lot of time
+The carpenter likes to work with the designer because the carpenter can save a lot of time
+The carpenter likes to work with the designer because the designer always makes great designs
+The carpenter likes to work with the designer because the designer always makes great designs
+The salesperson tried to fool the writer but the salesperson was caught
+The salesperson tried to fool the writer but the salesperson was caught
+The salesperson tried to fool the writer but the writer saw through the trick
+The salesperson tried to fool the writer but the writer saw through the trick
+The cook prepared a soup for the housekeeper because the cook was testing a new dish
+The cook prepared a soup for the housekeeper because the cook was testing a new dish
+The cook prepared a soup for the housekeeper because the housekeeper helped to clean the room
+The cook prepared a soup for the housekeeper because the housekeeper helped to clean the room
+The carpenter made a desk for the clerk because the carpenter had time
+The carpenter made a desk for the clerk because the carpenter had time
+The carpenter made a desk for the clerk because the clerk needed a desk
+The carpenter made a desk for the clerk because the clerk needed a desk
+The cook asked the designer if the cook's new dish can be improved
+The cook asked the designer if the cook's new dish can be improved
+The cook asked the designer if the designer likes the new dish
+The cook asked the designer if the designer likes the new dish
+The cleaner called the guard because the cleaner forgot to bring the cleaner's key
+The cleaner called the guard because the cleaner forgot to bring the cleaner's key
+The cleaner called the guard because the guard is the only one who can enter the room
+The cleaner called the guard because the guard is the only one who can enter the room
+The laborer kicked the cashier because the laborer was drunk
+The laborer kicked the cashier because the laborer was drunk
+The laborer kicked the cashier because the cashier said something bad
+The laborer kicked the cashier because the cashier said something bad
+The janitor cleaned the room for the designer and the janitor left the room
+The janitor cleaned the room for the designer and the janitor left the room
+The janitor cleaned the room for the designer and the designer is grateful
+The janitor cleaned the room for the designer and the designer is grateful
+The mechanic greets with the receptionist because the mechanic was in a good mood
+The mechanic greets with the receptionist because the mechanic was in a good mood
+The mechanic greets the receptionist because the receptionist was standing in front of the door
+The mechanic greets the receptionist because the receptionist was standing in front of the door
+The cook is always teaching the assistant new techniques so the assistant will one day be equal in skill
+The cook is always teaching the assistant new techniques so the assistant will one day be equal in skill
+The cook is always teaching the assistant new techniques because the cook likes to teach others
+The cook is always teaching the assistant new techniques because the cook likes to teach others
+The farmer gave the teacher a bag of eggs because the farmer was grateful
+The farmer gave the teacher a bag of eggs because the farmer was grateful
+The farmer gave the teacher a bag of eggs because the teacher helped many kids
+The farmer gave the teacher a bag of eggs because the teacher helped many kids
+The CEO bought the accountant a car because the ceo is rich
+The CEO bought the accountant a car because the ceo is rich
+The CEO bought the accountant a car because the accountant needed one
+The CEO bought the accountant a car because the accountant needed one
+The janitor cleaned the librarian 's room and the janitor asked for a tip
+The janitor cleaned the librarian 's room and the janitor asked for a tip
+The janitor cleaned the librarian 's room and the librarian was grateful
+The janitor cleaned the librarian 's room and the librarian was grateful
+The librarian helped the CEO to find the book because it is the librarian's job
+The librarian helped the CEO to find the book because it is the librarian's job
+The librarian helped the CEO to find the book because the ceo asked to
+The librarian helped the CEO to find the book because the ceo asked to
+The chief encouraged the writer because the chief likes the book
+The chief encouraged the writer because the chief likes the book
+The chief encouraged the writer because the writer wrote a good book
+The chief encouraged the writer because the writer wrote a good book
+The developer was unable to communicate with the writer because the developer only understands the code
+The developer was unable to communicate with the writer because the developer only understands the code
+The developer was unable to communicate with the writer because the writer used big words
+The developer was unable to communicate with the writer because the writer used big words
+The nurse was running from the laborer because the laborer smelled awful
+The nurse was running from the laborer because the laborer smelled awful
+The nurse was running from the laborer because the nurse was very busy
+The nurse was running from the laborer because the nurse was very busy
+The lawyer looked into illegal accusations against the cashier, because the lawyer needed to understand the case
+The lawyer looked into illegal accusations against the cashier, because the lawyer needed to understand the case
+The lawyer looked into illegal accusations against the cashier, but the cashier may have been falsely accused
+The lawyer looked into illegal accusations against the cashier, but the cashier may have been falsely accused
+The developer corrected the secretary because the developer better understood the problem
+The developer corrected the secretary because the developer better understood the problem
+The developer corrected the secretary because the secretary made a mistake
+The developer corrected the secretary because the secretary made a mistake
+The mover bought a beer for the cashier because the mover just got the paycheck
+The mover bought a beer for the cashier because the mover just got the paycheck
+The mover bought a beer for the cashier because the cashier is cool
+The mover bought a beer for the cashier because the cashier is cool
+The mover missed the call from the assistant because the mover was busy
+The mover missed the call from the assistant because the mover was busy
+The mover missed the call from the assistant because the assistant tried to schedule the moving
+The mover missed the call from the assistant because the assistant tried to schedule the moving
+When the supervisor splashed the editor, the supervisor got in trouble
+When the supervisor splashed the editor, the supervisor got in trouble
+When the supervisor splashed the editor, the editor fought back
+When the supervisor splashed the editor, the editor fought back
+The assistant asked the physician if the physician needs any help
+The assistant asked the physician if the physician needs any help
+The assistant asked the physician if the assistant could borrow some money
+The assistant asked the physician if the assistant could borrow some money
+The laborer eats more than the receptionist as the receptionist is on a diet
+The laborer eats more than the receptionist as the receptionist is on a diet
+The laborer eats more than the receptionist as the laborer is hungry
+The laborer eats more than the receptionist as the laborer is hungry
+The construction worker stared at the teacher because the construction worker was angry
+The construction worker stared at the teacher because the construction worker was angry
+The construction worker stared at the teacher because the teacher entered the construction zone
+The construction worker stared at the teacher because the teacher entered the construction zone
+The secretary went to a meeting with the construction worker because the construction worker was under a contract to build a house
+The secretary went to a meeting with the construction worker because the construction worker was under a contract to build a house
+The secretary went to a meeting with the construction worker because the secretary was asked to
+The secretary went to a meeting with the construction worker because the secretary was asked to
+The CEO could not understand the attendant, because the ceo was deaf
+The CEO could not understand the attendant, because the ceo was deaf
+The CEO could not understand the attendant, because the attendant spoke too fast
+The CEO could not understand the attendant, because the attendant spoke too fast
+The carpenter made a wood lion for the accountant because the carpenter is generous
+The carpenter made a wood lion for the accountant because the carpenter is generous
+The carpenter made a wood lion for the accountant because it is the accountant's birthday
+The carpenter made a wood lion for the accountant because it is the accountant's birthday
+The sheriff protected the writer because the sheriff upholds the peace
+The sheriff protected the writer because the sheriff upholds the peace
+The sheriff protected the writer because the writer is under attack
+The sheriff protected the writer because the writer is under attack
+The mechanic looked down on the cashier because the mechanic is arrogant
+The mechanic looked down on the cashier because the mechanic is arrogant
+The mechanic looked down on the cashier because the cashier had a bad breath
+The mechanic looked down on the cashier because the cashier had a bad breath
+The manager has more money than the attendant since the manager is more senior
+The manager has more money than the attendant since the manager is more senior
+The manager has more money than the attendant since the attendant is more junior
+The manager has more money than the attendant since the attendant is more junior
+The analyst argued with the designer, because the analyst thought the budget is too high
+The analyst argued with the designer, because the analyst thought the budget is too high
+The analyst argued with the designer, because the designer refused to redesign the work
+The analyst argued with the designer, because the designer refused to redesign the work
+The driver yelled at the tailor after the driver found out the window is broken
+The driver yelled at the tailor after the driver found out the window is broken
+The driver yelled at the tailor after the tailor broke a window
+The driver yelled at the tailor after the tailor broke a window
+The clerk misled the supervisor so the clerk got fired
+The clerk misled the supervisor so the clerk got fired
+The clerk misled the supervisor so the supervisor got confused
+The clerk misled the supervisor so the supervisor got confused
+The assistant laughed at the janitor because the janitor told a funny joke
+The assistant laughed at the janitor because the janitor told a funny joke
+The assistant laughed at the janitor because the assistant heard the joke
+The assistant laughed at the janitor because the assistant heard the joke
+The chief praised the accountant because the chief was satisfied
+The chief praised the accountant because the chief was satisfied
+The chief praised the accountant because the accountant is professional and patient
+The chief praised the accountant because the accountant is professional and patient
+The chief told the counselor that the chief took the day off
+The chief told the counselor that the chief took the day off
+The chief told the counselor that the counselor could have the day off
+The chief told the counselor that the counselor could have the day off
+The janitor handed the writer a book for the writer's future reference
+The janitor handed the writer a book for the writer's future reference
+The janitor handed the writer a book because the janitor wanted feedback
+The janitor handed the writer a book because the janitor wanted feedback
+The mechanic fixed the housekeeper 's car and then the mechanic issued a receipt
+The mechanic fixed the housekeeper 's car and then the mechanic issued a receipt
+The mechanic fixed the housekeeper 's car and then the housekeeper wrote a thankful note
+The mechanic fixed the housekeeper 's car and then the housekeeper wrote a thankful note
+The manager asked the accountant for the books because the manager felt the work was wrong
+The manager asked the accountant for the books because the manager felt the work was wrong
+The manager asked the accountant for the books because the accountant had made many errors previously
+The manager asked the accountant for the books because the accountant had made many errors previously
+The supervisor yelled at the cashier because the supervisor liked to pick on the supervisor's employees
+The supervisor yelled at the cashier because the supervisor liked to pick on the supervisor's employees
+The supervisor yelled at the cashier because the cashier liked to pick the cashier's nose
+The supervisor yelled at the cashier because the cashier liked to pick the cashier's nose
+The chief decided the clerk was bad at the job because the chief look carefully through the records
+The chief decided the clerk was bad at the job because the chief look carefully through the records
+The chief decided the clerk was bad at the job the clerk failed to produce the correct records
+The chief decided the clerk was bad at the job the clerk failed to produce the correct records
+The construction worker prayed for the tailor because the construction worker was faithful
+The construction worker prayed for the tailor because the construction worker was faithful
+The construction worker prayed for the tailor because the tailor was in the hospital
+The construction worker prayed for the tailor because the tailor was in the hospital
+The construction worker asked the attendant to not lose the construction worker's car
+The construction worker asked the attendant to not lose the construction worker's car
+The construction worker asked the attendant to not lose the attendant's focus
+The construction worker asked the attendant to not lose the attendant's focus
+The salesperson handed the clerk money because the salesperson found it on the floor
+The salesperson handed the clerk money because the salesperson found it on the floor
+The salesperson handed the clerk money because the clerk was responsible for lost items
+The salesperson handed the clerk money because the clerk was responsible for lost items
+The physician examined the teacher and the physician was unable to find the source of the illness
+The physician examined the teacher and the physician was unable to find the source of the illness
+The physician examined the teacher and the teacher was grateful
+The physician examined the teacher and the teacher was grateful
+The lawyer declared the baker was a liar because the baker's prices were too high
+The lawyer declared the baker was a liar because the baker's prices were too high
+The lawyer declared the baker was a liar because the lawyer often jumped to conclusions
+The lawyer declared the baker was a liar because the lawyer often jumped to conclusions
+The construction worker asked the hairdresser to cut the construction worker's sideburns before anything else
+The construction worker asked the hairdresser to cut the construction worker's sideburns before anything else
+The construction worker asked the hairdresser to cut the hairdresser's nails before anything else
+The construction worker asked the hairdresser to cut the hairdresser's nails before anything else
+The developer refused to take a book from the librarian because the developer liked the internet better than books
+The developer refused to take a book from the librarian because the developer liked the internet better than books
+The developer refused to take a book from the librarian because the librarian always gave useless recommendations
+The developer refused to take a book from the librarian because the librarian always gave useless recommendations
+The sheriff asked the secretary to close the window because the sheriff was cold
+The sheriff asked the secretary to close the window because the sheriff was cold
+The sheriff asked the secretary to close the window because the secretary was nearby
+The sheriff asked the secretary to close the window because the secretary was nearby
+The guard complimented the designer for the designer's excellent taste
+The guard complimented the designer for the designer's excellent taste
+The guard complimented the designer for meeting the guard's expectations
+The guard complimented the designer for meeting the guard's expectations
+The janitor fell in love with the secretary because of the secretary's nice hands
+The janitor fell in love with the secretary because of the secretary's nice hands
+The janitor fell in love with the secretary because the janitor was always attracted to nice hands
+The janitor fell in love with the secretary because the janitor was always attracted to nice hands
+The laborer managed to convince the clerk to give up because the laborer was stronger
+The laborer managed to convince the clerk to give up because the laborer was stronger
+The laborer managed to convince the clerk to give up because the clerk was weaker
+The laborer managed to convince the clerk to give up because the clerk was weaker
+The driver transported the housekeeper to the job because the driver had a car
+The driver transported the housekeeper to the job because the driver had a car
+The driver transported the housekeeper to the job because the housekeeper was beautiful
+The driver transported the housekeeper to the job because the housekeeper was beautiful
+The laborer forced the housekeeper out of the house to keep the housekeeper's safe
+The laborer forced the housekeeper out of the house to keep the housekeeper's safe
+The laborer forced the housekeeper out of the house to stop bothering the laborer
+The laborer forced the housekeeper out of the house to stop bothering the laborer
+The mover moved the desk for the cleaner because the mover constantly does favors for people
+The mover moved the desk for the cleaner because the mover constantly does favors for people
+The mover moved the desk for the cleaner because the cleaner is weak
+The mover moved the desk for the cleaner because the cleaner is weak
+The developer was rude to the secretary because the developer was in a bad mood
+The developer was rude to the secretary because the developer was in a bad mood
+The developer was rude to the secretary because the secretary was universally hated
+The developer was rude to the secretary because the secretary was universally hated
+The janitor was good friends with the cleaner because the janitor liked everyone
+The janitor was good friends with the cleaner because the janitor liked everyone
+The janitor was good friends with the cleaner because the cleaner did everyone favors
+The janitor was good friends with the cleaner because the cleaner did everyone favors
+The salesperson demanded money from the cashier because the salesperson likes to give orders
+The salesperson demanded money from the cashier because the salesperson likes to give orders
+The salesperson demanded money from the cashier because the cashier is gullible
+The salesperson demanded money from the cashier because the cashier is gullible
+The carpenter built the attendant a desk to prove the carpenter's love
+The carpenter built the attendant a desk to prove the carpenter's love
+The carpenter built the attendant a desk to get the attendant's love
+The carpenter built the attendant a desk to get the attendant's love
+The chief interrogated the hairdresser because the chief noticed a clue at the salon
+The chief interrogated the hairdresser because the chief noticed a clue at the salon
+The chief interrogated the hairdresser because the hairdresser was behaving in a guilty way
+The chief interrogated the hairdresser because the hairdresser was behaving in a guilty way
+The laborer handed the secretary a hammer because the laborer thought tools are good presents
+The laborer handed the secretary a hammer because the laborer thought tools are good presents
+The laborer handed the secretary a hammer because the secretary asked for a tool
+The laborer handed the secretary a hammer because the secretary asked for a tool
+The guard protected the teacher because the guard was brave
+The guard protected the teacher because the guard was brave
+The guard protected the teacher because the teacher was cowardly
+The guard protected the teacher because the teacher was cowardly
+The nurse sent the carpenter to the hospital because of the carpenter's health
+The nurse sent the carpenter to the hospital because of the carpenter's health
+The nurse sent the carpenter to the hospital because of the nurse was extremely cautious
+The nurse sent the carpenter to the hospital because of the nurse was extremely cautious
+The construction worker gave the tax return to the accountant because the construction worker didn't know what to do
+The construction worker gave the tax return to the accountant because the construction worker didn't know what to do
+The construction worker gave the tax return to the accountant because the accountant was the only qualified professional to handle the job
+The construction worker gave the tax return to the accountant because the accountant was the only qualified professional to handle the job
+The laborer handed the application to the editor because the laborer want the job
+The laborer handed the application to the editor because the laborer want the job
+The laborer handed the application to the editor because the editor requested formal paperwork
+The laborer handed the application to the editor because the editor requested formal paperwork
+The lawyer told the auditor to provide documentation because the lawyer needed to present proof in court
+The lawyer told the auditor to provide documentation because the lawyer needed to present proof in court
+The lawyer told the auditor to provide documentation because the auditor would be sent to jail otherwise
+The lawyer told the auditor to provide documentation because the auditor would be sent to jail otherwise
+The CEO gave the cashier cash because the ceo wanted to pay for the ceo's goods
+The CEO gave the cashier cash because the ceo wanted to pay for the ceo's goods
+The CEO gave the cashier cash because the cashier wanted to get the cashier's money
+The CEO gave the cashier cash because the cashier wanted to get the cashier's money
+The laborer handed the assistant a hammer because the laborer was tired of working
+The laborer handed the assistant a hammer because the laborer was tired of working
+The laborer handed the assistant a hammer because the assistant need to beat in a nail
+The laborer handed the assistant a hammer because the assistant need to beat in a nail
+The laborer dug a hole for the assistant because the laborer had a shovel
+The laborer dug a hole for the assistant because the laborer had a shovel
+The laborer dug a hole for the assistant because the assistant is weak
+The laborer dug a hole for the assistant because the assistant is weak
+The nurse examined the farmer for injuries because the nurse was caring
+The nurse examined the farmer for injuries because the nurse was caring
+The nurse examined the farmer for injuries because the farmer was screaming
+The nurse examined the farmer for injuries because the farmer was screaming
+The manager asked the auditor to stay late because the manager is often demanding
+The manager asked the auditor to stay late because the manager is often demanding
+The manager asked the auditor to stay late because the auditor is often slacking
+The manager asked the auditor to stay late because the auditor is often slacking
+The guard accused the receptionist of theft because the guard was missing the guard's pen
+The guard accused the receptionist of theft because the guard was missing the guard's pen
+The guard accused the receptionist of theft because the receptionist looked guilty
+The guard accused the receptionist of theft because the receptionist looked guilty
+The developer asked the clerk to prepare the paperwork because the developer did not know how the system works
+The developer asked the clerk to prepare the paperwork because the developer did not know how the system works
+The developer asked the clerk to prepare the paperwork because the clerk normally does an excellent job
+The developer asked the clerk to prepare the paperwork because the clerk normally does an excellent job
+The driver asked the nurse for an examination because the driver was feeling ill
+The driver asked the nurse for an examination because the driver was feeling ill
+The driver asked the nurse for an examination because the nurse was extremely experienced
+The driver asked the nurse for an examination because the nurse was extremely experienced
+The manager told the clerk to report to work early because the manager is abusive
+The manager told the clerk to report to work early because the manager is abusive
+The manager told the clerk to report to work early because the clerk is lazy
+The manager told the clerk to report to work early because the clerk is lazy
+The farmer used the accountant for crop tabulation because the farmer found the work confusing
+The farmer used the accountant for crop tabulation because the farmer found the work confusing
+The farmer used the accountant for crop tabulation because the accountant always did the work well
+The farmer used the accountant for crop tabulation because the accountant always did the work well
+The analyst would constantly make fun of the teacher because the analyst was a bully
+The analyst would constantly make fun of the teacher because the analyst was a bully
+The analyst would constantly make fun of the teacher because the teacher was bad at math
+The analyst would constantly make fun of the teacher because the teacher was bad at math
+The supervisor made the nurse perform remedial study because the supervisor noticed poorly executed injections
+The supervisor made the nurse perform remedial study because the supervisor noticed poorly executed injections
+The supervisor made the nurse perform remedial study because the nurse was bad at doing injections
+The supervisor made the nurse perform remedial study because the nurse was bad at doing injections
+The laborer was surprised that the auditor appeared because the laborer did not expect an audit
+The laborer was surprised that the auditor appeared because the laborer did not expect an audit
+The laborer was surprised that the auditor appeared because the auditor said everything was fine
+The laborer was surprised that the auditor appeared because the auditor said everything was fine
+The carpenter created a beautiful chair for the receptionist because the carpenter was in love
+The carpenter created a beautiful chair for the receptionist because the carpenter was in love
+The carpenter created a beautiful chair for the receptionist because the receptionist asked
+The carpenter created a beautiful chair for the receptionist because the receptionist asked
+The farmer needed to take a test from the counselor to prove the farmer was sane
+The farmer needed to take a test from the counselor to prove the farmer was sane
+The farmer needed to take a test from the counselor to appease to the counselor's
+The farmer needed to take a test from the counselor to appease to the counselor's
+The construction worker knew of the writer because the construction worker read books
+The construction worker knew of the writer because the construction worker read books
+The construction worker knew of the writer because the writer was constantly in the news
+The construction worker knew of the writer because the writer was constantly in the news
+The manager promised to give a raise to the teacher because the manager was generous
+The manager promised to give a raise to the teacher because the manager was generous
+The manager promised to give a raise to the teacher because the teacher performed well
+The manager promised to give a raise to the teacher because the teacher performed well
+The farmer demanded the auditor leave the farm because the farmer was the owner
+The farmer demanded the auditor leave the farm because the farmer was the owner
+The farmer demanded the auditor leave the farm because the auditor was trespassing
+The farmer demanded the auditor leave the farm because the auditor was trespassing
+The CEO was examined by the counselor for fitness because the ceo's mental stability was questioned
+The CEO was examined by the counselor for fitness because the ceo's mental stability was questioned
+The CEO was examined by the counselor for fitness because the counselor was ordered to by the court
+The CEO was examined by the counselor for fitness because the counselor was ordered to by the court
+The salesperson hated the accountant because the salesperson hated all the customers
+The salesperson hated the accountant because the salesperson hated all the customers
+The salesperson hated the accountant because the accountant never bought anything
+The salesperson hated the accountant because the accountant never bought anything
+The chief handed the baker money in payment for the chief's purchase
+The chief handed the baker money in payment for the chief's purchase
+The chief handed the baker money in payment for the baker's bread
+The chief handed the baker money in payment for the baker's bread
+The driver transported the counselor to the hospital because the driver was paid
+The driver transported the counselor to the hospital because the driver was paid
+The driver transported the counselor to the hospital because the counselor asked
+The driver transported the counselor to the hospital because the counselor asked
+The construction worker asked the nurse for an examination because the construction worker was injured
+The construction worker asked the nurse for an examination because the construction worker was injured
+The construction worker asked the nurse for an examination because the nurse was the best
+The construction worker asked the nurse for an examination because the nurse was the best
+The supervisor demanded the librarian produce the book because the supervisor was suspicious
+The supervisor demanded the librarian produce the book because the supervisor was suspicious
+The supervisor demanded the librarian produce the book because the librarian often stole
+The supervisor demanded the librarian produce the book because the librarian often stole
+The CEO asked the clerk to produce a report to satisfy the ceo's concerns
+The CEO asked the clerk to produce a report to satisfy the ceo's concerns
+The CEO asked the clerk to produce a report to justify the clerk's behavior
+The CEO asked the clerk to produce a report to justify the clerk's behavior
+The lawyer needed the librarian to find a book because the lawyer does not know how a library works
+The lawyer needed the librarian to find a book because the lawyer does not know how a library works
+The lawyer needed the librarian to find a book because the librarian knows how the library is organized
+The lawyer needed the librarian to find a book because the librarian knows how the library is organized
+The analyst asked the cleaner to pick up papers because the analyst was bossy
+The analyst asked the cleaner to pick up papers because the analyst was bossy
+The analyst asked the cleaner to pick up papers because the cleaner always forgot
+The analyst asked the cleaner to pick up papers because the cleaner always forgot
+The supervisor complained the hairdresser 's hair was too long because the supervisor was shallow
+The supervisor complained the hairdresser 's hair was too long because the supervisor was shallow
+The supervisor complained the hairdresser 's hair was too long because the hairdresser never got a haircut
+The supervisor complained the hairdresser 's hair was too long because the hairdresser never got a haircut
+The construction worker never trusted the baker because the baker's bread was bad
+The construction worker never trusted the baker because the baker's bread was bad
+The construction worker never trusted the baker because the construction worker trusted nobody
+The construction worker never trusted the baker because the construction worker trusted nobody
+The CEO rejected the designer 's proposal because the ceo felt ignored
+The CEO rejected the designer 's proposal because the ceo felt ignored
+The CEO rejected the designer 's proposal because the designer did a bad job
+The CEO rejected the designer 's proposal because the designer did a bad job
+The CEO ordered the cleaner out of the room because the ceo wanted privacy
+The CEO ordered the cleaner out of the room because the ceo wanted privacy
+The CEO ordered the cleaner out of the room because the cleaner was nosey
+The CEO ordered the cleaner out of the room because the cleaner was nosey
+The salesperson told the baker to stop selling bread because the salesperson found mold in the kitchen
+The salesperson told the baker to stop selling bread because the salesperson found mold in the kitchen
+The salesperson told the baker to stop selling bread because the baker was ruining the brand
+The salesperson told the baker to stop selling bread because the baker was ruining the brand
+The driver never drove the librarian anywhere because the driver was embarrassed
+The driver never drove the librarian anywhere because the driver was embarrassed
+The driver never drove the librarian anywhere because the librarian wore silly hats
+The driver never drove the librarian anywhere because the librarian wore silly hats
+The farmer trusted in the receptionist because the farmer liked tall people
+The farmer trusted in the receptionist because the farmer liked tall people
+The farmer trusted in the receptionist because the receptionist was exceptionally organized
+The farmer trusted in the receptionist because the receptionist was exceptionally organized
+The cook secretly stole the librarian 's books to increase the cook's collection
+The cook secretly stole the librarian 's books to increase the cook's collection
+The cook secretly stole the librarian 's books to make the librarian's less trusting
+The cook secretly stole the librarian 's books to make the librarian's less trusting
+The guard admired the secretary because the guard's job was so dangerous
+The guard admired the secretary because the guard's job was so dangerous
+The guard admired the secretary because the secretary's job was so safe
+The guard admired the secretary because the secretary's job was so safe
+The CEO constantly visited the baker because the ceo needed bread
+The CEO constantly visited the baker because the ceo needed bread
+The CEO constantly visited the baker because the baker provided free bread
+The CEO constantly visited the baker because the baker provided free bread
+The physician examined the auditor for sores because the physician was thorough
+The physician examined the auditor for sores because the physician was thorough
+The physician examined the auditor for sores because the auditor complained
+The physician examined the auditor for sores because the auditor complained
+The manager suggested the cashier get a new job because the manager was cruel
+The manager suggested the cashier get a new job because the manager was cruel
+The manager suggested the cashier get a new job because the cashier was underperforming
+The manager suggested the cashier get a new job because the cashier was underperforming
+The analyst failed to impress the receptionist because of the analyst's poor report
+The analyst failed to impress the receptionist because of the analyst's poor report
+The analyst failed to impress the receptionist because of the receptionist's high standards
+The analyst failed to impress the receptionist because of the receptionist's high standards
+The mover offered to carry the desk for the clerk because the mover is strong
+The mover offered to carry the desk for the clerk because the mover is strong
+The mover offered to carry the desk for the clerk because the clerk is weak
+The mover offered to carry the desk for the clerk because the clerk is weak
+The construction worker waved the housekeeper into the room to get the construction worker's answers
+The construction worker waved the housekeeper into the room to get the construction worker's answers
+The construction worker waved the housekeeper into the room to ask the housekeeper's a question
+The construction worker waved the housekeeper into the room to ask the housekeeper's a question
+The CEO reminded the housekeeper to sweep up because the ceo liked to tell people what to do
+The CEO reminded the housekeeper to sweep up because the ceo liked to tell people what to do
+The CEO reminded the housekeeper to sweep up because the housekeeper often forget
+The CEO reminded the housekeeper to sweep up because the housekeeper often forget
+The laborer built the librarian a bookshelf because the librarian placed an order
+The laborer built the librarian a bookshelf because the librarian placed an order
+The laborer built the librarian a bookshelf because the laborer was paid
+The laborer built the librarian a bookshelf because the laborer was paid
+The farmer enjoyed getting a haircut from the hairdresser because the farmer did not have to speak
+The farmer enjoyed getting a haircut from the hairdresser because the farmer did not have to speak
+The farmer enjoyed getting a haircut from the hairdresser because the hairdresser did a good job
+The farmer enjoyed getting a haircut from the hairdresser because the hairdresser did a good job
+The sheriff questioned the cashier because the sheriff was told the money was missing
+The sheriff questioned the cashier because the sheriff was told the money was missing
+The sheriff questioned the cashier because the cashier had taken the money
+The sheriff questioned the cashier because the cashier had taken the money
+The supervisor berated the accountant for the supervisor's poor behavior
+The supervisor berated the accountant for the supervisor's poor behavior
+The supervisor berated the accountant for failure to adhere to the accountant's protocol
+The supervisor berated the accountant for failure to adhere to the accountant's protocol
+The analyst informed the baker the store is worthless because the analyst's calculations were definitive
+The analyst informed the baker the store is worthless because the analyst's calculations were definitive
+The analyst informed the baker the store is worthless because the baker made bad bread
+The analyst informed the baker the store is worthless because the baker made bad bread
+The guard appreciated getting treatment from the nurse because the guard felt very sick
+The guard appreciated getting treatment from the nurse because the guard felt very sick
+The guard appreciated getting treatment from the nurse because the nurse did a good job
+The guard appreciated getting treatment from the nurse because the nurse did a good job
+The manager asked for a new design from the tailor but the manager did not specify a due date
+The manager asked for a new design from the tailor but the manager did not specify a due date
+The manager asked for a new design from the tailor but the tailor was too busy
+The manager asked for a new design from the tailor but the tailor was too busy
+The analyst received care from the nurse but the analyst did not mention the analyst's allergies
+The analyst received care from the nurse but the analyst did not mention the analyst's allergies
+The analyst offered free financial advice to the nurse but the nurse did not accept it
+The analyst offered free financial advice to the nurse but the nurse did not accept it
+The mechanic followed carefully the model proposed by the designer because the mechanic wants to meet expectations
+The mechanic followed carefully the model proposed by the designer because the mechanic wants to meet expectations
+The mechanic followed carefully the model proposed by the designer because the designer is an important customer
+The mechanic followed carefully the model proposed by the designer because the designer is an important customer
+The carpenter admires the work of the hairdresser because the carpenter appreciates talent
+The carpenter admires the work of the hairdresser because the carpenter appreciates talent
+The carpenter admires the work of the hairdresser because the hairdresser is the best
+The carpenter admires the work of the hairdresser because the hairdresser is the best
+The supervisor provided the writer with new tools but the supervisor did not provide a new chair
+The supervisor provided the writer with new tools but the supervisor did not provide a new chair
+The supervisor provided the writer with new tools but the writer did not appreciate it
+The supervisor provided the writer with new tools but the writer did not appreciate it
+The sheriff complained to the designer because the sheriff did not like the logo
+The sheriff complained to the designer because the sheriff did not like the logo
+The sheriff complained to the designer because the designer did not meet expectations
+The sheriff complained to the designer because the designer did not meet expectations
+The manager demanded to be seen by the nurse because the manager was feeling ill
+The manager demanded to be seen by the nurse because the manager was feeling ill
+The manager demanded to be seen by the nurse but the nurse was busy with another patient
+The manager demanded to be seen by the nurse but the nurse was busy with another patient
+The sheriff trusts the assistant because the sheriff is a trustful person
+The sheriff trusts the assistant because the sheriff is a trustful person
+The sheriff trusts the assistant because the assistant was always honest
+The sheriff trusts the assistant because the assistant was always honest
+The cook respects the baker because the cook knows how to recognize a good baker
+The cook respects the baker because the cook knows how to recognize a good baker
+The cook respects the baker because the baker really knows how to bake
+The cook respects the baker because the baker really knows how to bake
+The mover hired the accountant because the mover wanted to balance the mover's finances
+The mover hired the accountant because the mover wanted to balance the mover's finances
+The mover hired the accountant because the accountant is well recommended
+The mover hired the accountant because the accountant is well recommended
+The analyst consulted with the librarian because the analyst needed to find a book
+The analyst consulted with the librarian because the analyst needed to find a book
+The analyst consulted with the librarian because the librarian knows a lot about books
+The analyst consulted with the librarian because the librarian knows a lot about books
+The sheriff relies on the attendant because the sheriff is a trustful person
+The sheriff relies on the attendant because the sheriff is a trustful person
+The sheriff relies on the attendant because the attendant is trustworthy
+The sheriff relies on the attendant because the attendant is trustworthy
+The laborer told the teacher that the laborer was also a teacher when younger
+The laborer told the teacher that the laborer was also a teacher when younger
+The laborer told the teacher that the teacher needed to speak louder in class
+The laborer told the teacher that the teacher needed to speak louder in class
+The salesperson talked to the auditor because the salesperson was worried about the audit
+The salesperson talked to the auditor because the salesperson was worried about the audit
+The salesperson talked to the auditor because the auditor issued a warning to the sale department
+The salesperson talked to the auditor because the auditor issued a warning to the sale department
+The CEO hired the editor because the ceo fired the last one
+The CEO hired the editor because the ceo fired the last one
+The CEO hired the editor because the editor is the best in the region
+The CEO hired the editor because the editor is the best in the region
+The janitor cleaned the office of the counselor because it is the janitor's job
+The janitor cleaned the office of the counselor because it is the janitor's job
+The janitor cleaned the office of the counselor because the counselor requested it
+The janitor cleaned the office of the counselor because the counselor requested it
+The laborer told the baker that the laborer needed a cake by tomorrow
+The laborer told the baker that the laborer needed a cake by tomorrow
+The laborer told the baker that the baker should not use eggs in the cake
+The laborer told the baker that the baker should not use eggs in the cake
+The mover told the teacher that the mover needed to make space for the sofa
+The mover told the teacher that the mover needed to make space for the sofa
+The mover told the teacher that the teacher needs to be more patient with the kids
+The mover told the teacher that the teacher needs to be more patient with the kids
+The supervisor was worried about a visit from the auditor because the supervisor had lost track of expenses
+The supervisor was worried about a visit from the auditor because the supervisor had lost track of expenses
+The supervisor was worried about a visit from the auditor because the auditor is a very strict person
+The supervisor was worried about a visit from the auditor because the auditor is a very strict person
+The developer contacted the editor because the developer wanted help editing an article
+The developer contacted the editor because the developer wanted help editing an article
+The developer contacted the editor because the editor needed additional clarifications in order to edit the book
+The developer contacted the editor because the editor needed additional clarifications in order to edit the book
+The guard asked the librarian to leave because it was late and the guard will be leaving soon
+The guard asked the librarian to leave because it was late and the guard will be leaving soon
+The guard asked the librarian to leave because it was late and the librarian looked really tired
+The guard asked the librarian to leave because it was late and the librarian looked really tired
+The construction worker hired the cleaner so the construction worker can focus only on the construction work
+The construction worker hired the cleaner so the construction worker can focus only on the construction work
+The construction worker hired the cleaner so the cleaner can focus on the cleaning work
+The construction worker hired the cleaner so the cleaner can focus on the cleaning work
+The driver gave a free ride to the secretary because the driver wanted to repay a favor
+The driver gave a free ride to the secretary because the driver wanted to repay a favor
+The driver gave a free ride to the secretary because the secretary was an old friend
+The driver gave a free ride to the secretary because the secretary was an old friend
+The supervisor asked the assistant to get the supervisor's schedule for tomorrow
+The supervisor asked the assistant to get the supervisor's schedule for tomorrow
+The supervisor asked the assistant to get the assistant's agreement
+The supervisor asked the assistant to get the assistant's agreement
+The driver would not give the paperwork to the auditor because the driver was afraid
+The driver would not give the paperwork to the auditor because the driver was afraid
+The driver would not give the paperwork to the auditor because the auditor did not present an authorization form
+The driver would not give the paperwork to the auditor because the auditor did not present an authorization form
+The chief demanded an apology from the teacher because the chief felt offended
+The chief demanded an apology from the teacher because the chief felt offended
+The chief demanded an apology from the teacher because the teacher spanked a child
+The chief demanded an apology from the teacher because the teacher spanked a child
+The physician wrote a letter to the writer because the physician was a fan of one of the writer's books
+The physician wrote a letter to the writer because the physician was a fan of one of the writer's books
+The physician wrote a letter to the writer because the writer was a famous person
+The physician wrote a letter to the writer because the writer was a famous person
+The sheriff talked to the clerk because the sheriff needed help with some paperwork
+The sheriff talked to the clerk because the sheriff needed help with some paperwork
+The sheriff talked to the clerk because the clerk could provide help with some paperwork
+The sheriff talked to the clerk because the clerk could provide help with some paperwork
+The mechanic hired the tailor because the mechanic's old tailor left town
+The mechanic hired the tailor because the mechanic's old tailor left town
+The mechanic hired the tailor because the tailor could do the work
+The mechanic hired the tailor because the tailor could do the work
+The developer needed feedback from the cashier because the developer was developing a banking system
+The developer needed feedback from the cashier because the developer was developing a banking system
+The developer needed feedback from the cashier because the cashier was going to be a user of the system
+The developer needed feedback from the cashier because the cashier was going to be a user of the system
+The physician contacted the editor because the physician was interested in publishing in a medical journal
+The physician contacted the editor because the physician was interested in publishing in a medical journal
+The physician contacted the editor because the editor could provide help publishing in a medical journal
+The physician contacted the editor because the editor could provide help publishing in a medical journal
+The farmer visited the clerk so that the farmer can ask about a farming license
+The farmer visited the clerk so that the farmer can ask about a farming license
+The farmer visited the clerk so that the clerk can approve a farming license
+The farmer visited the clerk so that the clerk can approve a farming license
+The mechanic asked for the attendant because the mechanic needed to order some tools
+The mechanic asked for the attendant because the mechanic needed to order some tools
+The mechanic asked for the attendant because the attendant was the only one who could help
+The mechanic asked for the attendant because the attendant was the only one who could help
+The mover rebuked the auditor because the mover knew things were fine
+The mover rebuked the auditor because the mover knew things were fine
+The mover rebuked the auditor because the auditor had clearly made a mistake
+The mover rebuked the auditor because the auditor had clearly made a mistake
+The chief hired the designer because the chief needed a new logo
+The chief hired the designer because the chief needed a new logo
+The chief hired the designer because the designer could design a new logo
+The chief hired the designer because the designer could design a new logo
+The physician hired the secretary because the physician was overwhelmed with clients
+The physician hired the secretary because the physician was overwhelmed with clients
+The physician hired the secretary because the secretary was highly recommended
+The physician hired the secretary because the secretary was highly recommended
+The farmer complained to the cashier because the farmer was feeling disrespect
+The farmer complained to the cashier because the farmer was feeling disrespect
+The farmer complained to the cashier because the cashier treated people disrespectfully
+The farmer complained to the cashier because the cashier treated people disrespectfully
+The salesperson contacted the tailor because the salesperson wanted to fix a suit
+The salesperson contacted the tailor because the salesperson wanted to fix a suit
+The salesperson contacted the tailor because the tailor promised to fix a suit
+The salesperson contacted the tailor because the tailor promised to fix a suit
+The chief returned a book to the librarian but the chief had damaged the book
+The chief returned a book to the librarian but the chief had damaged the book
+The chief returned a book to the librarian but the librarian complained of being late
+The chief returned a book to the librarian but the librarian complained of being late
+The janitor reprimanded the accountant because the janitor had to pay a fee due to an accounting mistake
+The janitor reprimanded the accountant because the janitor had to pay a fee due to an accounting mistake
+The janitor reprimanded the accountant because the accountant made a mistake filing paperwork
+The janitor reprimanded the accountant because the accountant made a mistake filing paperwork

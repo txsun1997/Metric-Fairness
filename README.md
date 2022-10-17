@@ -81,6 +81,41 @@ would result in a tiny table:
 +--------+------+--------+
 ```
 
+You can see the exact details of how we calculated each score by checking `metrics.py`, and if you need to calculate scores of default backbones, run
+
+```bash
+cd metrics
+pip install -r requirements.txt
+bash metrics.sh
+```
+
+would result in a output file named `scores.csv` by default which contains scores of our gender bias dataset
+
+then, you can run 
+
+```bash
+python cal_bias_score.py --polarity False
+```
+
+to get quantized bias without polarity
+or run
+
+```bash
+python cal_bias_score.py --polarity True
+```
+to get quantized bias with polarity
+and each would result in a tiny table (with polarity False as an example):
+
+```
++------+-------+--------+------+------+-------------+-------------+-------------+------------+--------+---------+---------+---------+-------------+-------------+-------------+-------------+
+| bleu | rouge | meteor | nist | chrf | bertscore_r | bertscore_p | bertscore_f | moverscore | bleurt | prism_r | prism_p | prism_f | bartscore_r | bartscore_p | bartscore_f | frugalscore |
++------+-------+--------+------+------+-------------+-------------+-------------+------------+--------+---------+---------+---------+-------------+-------------+-------------+-------------+
+| 0.1  |  0.21 |  2.14  | 0.12 | 1.23 |     4.61    |     9.04    |     6.99    |   13.24    |  30.0  |   3.0   |  14.33  |   7.13  |     3.69    |    14.17    |     9.47    |     3.19    |
++------+-------+--------+------+------+-------------+-------------+-------------+------------+--------+---------+---------+---------+-------------+-------------+-------------+-------------+
+```
+
+
+
 ## Mitigate Metric Bias
 
 We are sorting out the code and data for mitigating metric bias. Watch this repository for the latest updates!
