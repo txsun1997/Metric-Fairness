@@ -89,22 +89,16 @@ pip install -r requirements.txt
 bash metrics.sh
 ```
 
-would result in a output file named `scores.csv` by default which contains scores of our gender bias dataset
+and you will obtain an output file named `scores.csv` by default which contains scores on our gender bias dataset.
 
-then, you can run 
-
-```bash
-python cal_bias_score.py --polarity False
-```
-
-to get quantized bias without polarity
-or run
+Also, you can calculate the polarized bias scores by running
 
 ```bash
 python cal_bias_score.py --polarity True
 ```
-to get quantized bias with polarity
-and each would result in a tiny table (with polarity False as an example):
+You are expected to obtain the results reported in Table 9 in the paper.
+
+Below is an example output of `python cal_bias_score.py` (without polarity):
 
 ```
 +------+-------+--------+------+------+-------------+-------------+-------------+------------+--------+---------+---------+---------+-------------+-------------+-------------+-------------+
@@ -124,9 +118,9 @@ and each would result in a tiny table (with polarity False as an example):
 
 [Download link](https://drive.google.com/drive/folders/1rqPw_h6_0CxgL4LY2LhBPMR2RODnMnv6?usp=sharing)
 
-We collect training data based on two public sentence-pair datasets, MultiNLI [(Williams et al., 2018)](https://doi.org/10.18653/v1/n18-1101) and STS-B [(Cer et al., 2017)](http://arxiv.org/abs/1708.00055), in which each sample is comprised of a premise and a hypothesis. We perform counterfactual data augmentation (CDA) ([Zhao et al., 2018b)](https://arxiv.org/abs/1804.06876) on the sentences in MultiNLI and STS-B to construct a training set. Datasets you can download from the above link include `train.tsv` for BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), and BLEURT (BERT-base).
+We collect training data based on two public sentence-pair datasets, MultiNLI [(Williams et al., 2018)](https://doi.org/10.18653/v1/n18-1101) and STS-B [(Cer et al., 2017)](http://arxiv.org/abs/1708.00055), in which each sample is comprised of a premise and a hypothesis. We perform counterfactual data augmentation (CDA) ([Zhao et al., 2018b)](https://arxiv.org/abs/1804.06876) on the sentences in MultiNLI and STS-B to construct a training set. You can download the datasets from the above link, which includes `train.tsv` for BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), and BLEURT (BERT-base).
 
-The following example adds and trains a debias adapter in the BERT-large of BERTScore. A single 24GB GPU (RTX 3090) is used for the example so we recommend you to use similar or better equipments. Please note that you should download the corresponding [dataset](https://drive.google.com/drive/folders/1rqPw_h6_0CxgL4LY2LhBPMR2RODnMnv6?usp=sharing) described above first.
+The following example shows how to add and train a debiasing adapter on the BERT-large model of BERTScore. Note that we used a single NVIDIA 3090 GPU (24GB) to perform training.
 
 ```bash
 cd Metric-Fairness/mitigating_bias/train/BERTScore
@@ -146,7 +140,7 @@ python train_BERTScore.py
     --data_path ${INPUT_PATH}
 ```
 
-When  training finished, a debias adapter will be saved in `./adapter/`, and you can check more training details in `./logs` . See [fitlog](https://fitlog.readthedocs.io/zh/latest/)
+After training, a debiasing adapter will be saved in `./adapter/`, and you can check more training details in `./logs` . See also [fitlog](https://fitlog.readthedocs.io/zh/latest/).
 
 ### Test
 
@@ -154,9 +148,9 @@ When  training finished, a debias adapter will be saved in `./adapter/`, and you
 
 [Download link](https://drive.google.com/drive/folders/1nqTQWXtf14SXZ5pC0hK5kBa28q9h-0-y?usp=sharing)
 
-We have trained debias adapters for BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), and BLEURT (BERT-base), and you can download these adapters' checkpoints by the link above.
+We have trained debiasing adapters for BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), and BLEURT (BERT-base), so you can download these adapters' checkpoints through the link above.
 
-The following example adds our trained debias adapters to BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), and BLEURT (BERT-base) , and calculate the bias scores after debasing on our test set in `Metric-Fairness/mitigating_bias/test/test_data` [(WinoBias)](https://doi.org/10.18653/v1/n18-2003). Also you should download the corresponding [adapter](https://drive.google.com/drive/folders/1nqTQWXtf14SXZ5pC0hK5kBa28q9h-0-y?usp=sharing) described above first.
+The following example shows how to add our trained debiasing adapters to BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), and BLEURT (BERT-base) , and calculate the bias scores using debiased metrics on our test set in `Metric-Fairness/mitigating_bias/test/test_data` [(WinoBias)](https://doi.org/10.18653/v1/n18-2003).
 
 ```bash
 cd Metric-Fairness/mitigating_bias/test
@@ -172,7 +166,7 @@ python cal_debias_scores.py
     --bart_score_bart_base_adapter_path ${BART_SCORE_BART_BASE_ADAPTER_PATH}
 ```
 
-would result in a tiny table
+Below is an example result:
 
 ```
 +----------------------+-----------------------+------------------+----------------------+
