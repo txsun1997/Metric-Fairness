@@ -1,0 +1,6 @@
+adapter_transformers==3.1.0
+fastNLP==1.0.0
+fitlog==0.9.13
+numpy==1.20.3
+torch==1.12.1+cu116
+transformers==4.23.1
