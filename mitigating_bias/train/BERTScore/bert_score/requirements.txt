@@ -1,0 +1,10 @@
+# PyTorch
+torch>=1.0.0
+# progress bars in model download and training scripts
+tqdm>=4.31.1
+# BERT
+transformers>=3.0.0
+matplotlib
+pandas>=1.0.1
+numpy
+packaging>=20.9
