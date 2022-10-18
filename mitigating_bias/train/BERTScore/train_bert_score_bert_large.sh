@@ -1,5 +1,3 @@
-INPUT_PATH=./BERTScore/BERT-large/train.tsv
-
 python train_BERTScore.py 
     --model_type bert-large-uncased \
     --adapter_name debiased-bertscore \
