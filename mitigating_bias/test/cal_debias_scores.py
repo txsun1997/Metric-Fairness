@@ -2,9 +2,9 @@ import sys
 from sys import path
 from prettytable import PrettyTable
 import argparse
-path.append('test/BERTScore')
-path.append('test/BLEURT')
-path.append('test/BARTScore')
+path.append('BERTScore')
+path.append('BLEURT')
+path.append('BARTScore')
 
 
 from test_bert_score import cal_bert_score
@@ -12,10 +12,10 @@ from test_bleurt import cal_bleurt
 from test_bart_score import cal_bart_score
 
 
-with open('test/test_data/hyps.txt') as f:
+with open('test_data/hyps.txt') as f:
     cands = [line.strip() for line in f]
 
-with open('test/test_data/refs.txt') as f:
+with open('test_data/refs.txt') as f:
     refs = [line.strip() for line in f]
 
 

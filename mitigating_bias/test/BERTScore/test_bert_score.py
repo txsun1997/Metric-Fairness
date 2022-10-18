@@ -1,6 +1,6 @@
 import sys
 from sys import path
-path.append('test/BERTScore/bert_score')
+path.append('BERTScore/bert_score')
 from scorer import BERTScorer
 
 
