@@ -118,7 +118,11 @@ and each would result in a tiny table (with polarity False as an example):
 
 ## Mitigate Metric Bias
 
-We are sorting out the code and data for mitigating metric bias. Watch this repository for the latest updates!
+### Datasets
+
+[Download link](https://drive.google.com/drive/folders/1jofgUQ2EemGlldWMoYDjN_y5i9HEPhAj?usp=sharing)
+
+We collect training data based on two public sentence-pair datasets, MultiNLI [(Williams et al., 2018)](https://doi.org/10.18653/v1/n18-1101) and STS-B [(Cer et al., 2017)](http://arxiv.org/abs/1708.00055), in which each sample is comprised of a premise and a hypothesis. We perform counterfactual data augmentation (CDA) ([Zhao et al., 2018b)](https://arxiv.org/abs/1804.06876) on the sentences in MultiNLI and STS-B to construct a training set. Datasets you can download from the above link include `train.tsv` for BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), and BLEURT (BERT-base) and `test.tsv` for testing debias performance
 
 ## Citation
 
