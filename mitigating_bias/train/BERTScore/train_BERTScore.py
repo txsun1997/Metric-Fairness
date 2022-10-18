@@ -123,7 +123,7 @@ if __name__ == '__main__':
         return data_bundle
 
     # load dataset
-    data_bundle = get_data(patt=args.data_path)
+    data_bundle = get_data(path=args.data_path)
     train_data = data_bundle.get_dataset('train')
     print('# samples: {}'.format(len(train_data)))
     print('Example:')
