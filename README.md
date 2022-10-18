@@ -118,20 +118,21 @@ and each would result in a tiny table (with polarity False as an example):
 
 ## Mitigate Metric Bias
 
-### Datasets
+### Train
+
+#### Datasets
 
 [Download link](https://drive.google.com/drive/folders/1rqPw_h6_0CxgL4LY2LhBPMR2RODnMnv6?usp=sharing)
 
 We collect training data based on two public sentence-pair datasets, MultiNLI [(Williams et al., 2018)](https://doi.org/10.18653/v1/n18-1101) and STS-B [(Cer et al., 2017)](http://arxiv.org/abs/1708.00055), in which each sample is comprised of a premise and a hypothesis. We perform counterfactual data augmentation (CDA) ([Zhao et al., 2018b)](https://arxiv.org/abs/1804.06876) on the sentences in MultiNLI and STS-B to construct a training set. Datasets you can download from the above link include `train.tsv` for BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), and BLEURT (BERT-base).
 
-### Train
 The following example adds and trains a debias adapter in the BERT-large of BERTScore. A single 24GB GPU (RTX 3090) is used for the example so we recommend you to use similar or better equipments. Please note that you should download the corresponding [dataset](https://drive.google.com/drive/folders/1rqPw_h6_0CxgL4LY2LhBPMR2RODnMnv6?usp=sharing) described above first.
 
 ```bash
 cd Metric-Fairness/mitigating_bias/train/BERTScore
 mkdir ./logs
 pip install -r requirements.txt
-INPUT_PATH= train.tsv # your training set path
+INPUT_PATH=train.tsv # your training set path
 python train_BERTScore.py
     --model_type bert-large-uncased \
     --adapter_name debiased-bertscore \
@@ -148,6 +149,40 @@ python train_BERTScore.py
 When  training finished, a debias adapter will be saved in `./adapter/`, and you can check more training details in `./logs` . See [fitlog](https://fitlog.readthedocs.io/zh/latest/)
 
 ### Test
+
+#### Adapters
+
+[Download link](https://drive.google.com/drive/folders/1nqTQWXtf14SXZ5pC0hK5kBa28q9h-0-y?usp=sharing)
+
+We have trained debias adapters for BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), and BLEURT (BERT-base), and you can download these adapters' checkpoints by the link above.
+
+The following example adds our trained debias adapters to BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), and BLEURT (BERT-base) , and calculate the bias scores after debasing on our test set in `Metric-Fairness/mitigating_bias/test/test_data` [(WinoBias)](https://doi.org/10.18653/v1/n18-2003). Also you should download the corresponding [adapter](https://drive.google.com/drive/folders/1nqTQWXtf14SXZ5pC0hK5kBa28q9h-0-y?usp=sharing) described above first.
+
+```bash
+cd Metric-Fairness/mitigating_bias/test
+pip install -r requirements.txt
+BERT_SCORE_BERT_LARGE_ADAPTER_PATH=BERTScore/BERT-large/adapter # bert_score_bert_large adapter path
+BERT_SCORE_BERT_BASE_ADAPTER_PATH=BERTScore/BERT-base/adapter # bert_score_bert_base adapter path
+BLEURT_BERT_BASE_ADAPTER_PATH=BLEURT/adapter # bleurt_bert_base adapter path
+BART_SCORE_BART_BASE_ADAPTER_PATH=BARTScore/adapter # bart_score_bart_base adapter path
+python cal_debias_scores.py
+    --bert_score_bert_large_adapter_path ${BERT_SCORE_BERT_LARGE_ADAPTER_PATH} \
+    --bert_score_bert_base_adapter_path ${BERT_SCORE_BERT_BASE_ADAPTER_PATH} \
+    --bleurt_bert_base_adapter_path ${BLEURT_BERT_BASE_ADAPTER_PATH} \
+    --bart_score_bart_base_adapter_path ${BART_SCORE_BART_BASE_ADAPTER_PATH}
+```
+
+would result in a tiny table
+
+```
++----------------------+-----------------------+------------------+----------------------+
+| bert_score_bert_base | bert_score_bert_large | bleurt_bert_base | bart_score_bart_base |
++----------------------+-----------------------+------------------+----------------------+
+|         4.21         |          2.69         |      10.46       |         2.35         |
++----------------------+-----------------------+------------------+----------------------+
+```
+
+### Performance Evaluation
 
 ## Citation
 
