@@ -194,7 +194,61 @@ If without our adapters, this table will be
 
 As you can see, our approach mitigates bias in these metrics.
 
-## Citation
+#### Performance Evaluation
+
+##### WMT20
+
+The following example evaluate the original metrics' perfomance in [WMT20](https://aclanthology.org/2020.wmt-1.77/)
+
+```bash
+cd Metric-Fairness/mitigating_bias/performance_eval
+pip install -r requirements.txt
+python eval_bert_score.py --model_type bert-base-uncased 
+python eval_bert_score.py --model_type bert-large-uncased 
+python eval_bleurt.py --model_type Elron/bleurt-base-512
+python eval_bart_score.py --model_type facebook/bart-base
+```
+
+each score of BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), and BLEURT (BERT-base) would result in a table as follow ( take BERTScore BERT-base as an example )
+
+```
++--------------------+--------------------+--------------------+-------------------+--------------------+---------------------+--------------------+--------------------+--------------------+--------------------+---------+
+|       cs-en        |       de-en        |       iu-en        |       ja-en       |       km-en        |        pl-en        |       ps-en        |       ru-en        |       ta-en        |       zh-en        | average |
++--------------------+--------------------+--------------------+-------------------+--------------------+---------------------+--------------------+--------------------+--------------------+--------------------+---------+
+| 0.7583954351408229 | 0.7856520632701715 | 0.6392427295923184 | 0.873454389551734 | 0.9699226518776352 | 0.36443917209595295 | 0.9316318565982338 | 0.8623790125061388 | 0.8323068779144118 | 0.9249015397123524 |   0.79  |
++--------------------+--------------------+--------------------+-------------------+--------------------+---------------------+--------------------+--------------------+--------------------+--------------------+---------+
+```
+
+Then  the following example evaluate the  metrics' perfomance after added our debias adapters in [WMT20](https://aclanthology.org/2020.wmt-1.77/)
+
+```bash
+BERT_SCORE_BERT_LARGE_ADAPTER_PATH=BERTScore/BERT-large/adapter # bert_score_bert_large adapter path
+BERT_SCORE_BERT_BASE_ADAPTER_PATH=BERTScore/BERT-base/adapter # bert_score_bert_base adapter path
+BLEURT_BERT_BASE_ADAPTER_PATH=BLEURT/adapter # bleurt_bert_base adapter path
+BART_SCORE_BART_BASE_ADAPTER_PATH=BARTScore/adapter # bart_score_bart_base adapter path
+python eval_bert_score.py 
+    --model_type bert-base-uncased \
+    --adapter_path ${BERT_SCORE_BERT_BASE_ADAPTER_PATH}
+python eval_bert_score.py 
+    --model_type bert-large-uncased \
+    --adapter_path ${BERT_SCORE_BERT_LARGE_ADAPTER_PATH}
+python eval_bleurt.py 
+    --model_type Elron/bleurt-base-512 \
+    --adapter_path ${BLEURT_BERT_BASE_ADAPTER_PATH}
+python eval_bart_score.py 
+    --model_type facebook/bart-base \
+    --adapter_path ${BART_SCORE_BART_BASE_ADAPTER_PATH}
+```
+
+In like wise, each score of BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), and BLEURT (BERT-base) would result in a table as follow ( also take BERTScore BERT-base as an example )
+
+```
+
+```
+
+It can be seen that our adapters has little impact on performance.
+
+##### RealSumm
 
 If you use our data or code, please cite:
 
