@@ -84,7 +84,7 @@ would result in a tiny table:
 You can see the exact details of how we calculated each score by checking `metrics.py`, and if you need to calculate scores of default backbones, run
 
 ```bash
-cd metrics
+cd Metric-Fairness/measuring_bias/metrics
 pip install -r requirements.txt
 bash metrics.sh
 ```
@@ -125,6 +125,24 @@ and each would result in a tiny table (with polarity False as an example):
 We collect training data based on two public sentence-pair datasets, MultiNLI [(Williams et al., 2018)](https://doi.org/10.18653/v1/n18-1101) and STS-B [(Cer et al., 2017)](http://arxiv.org/abs/1708.00055), in which each sample is comprised of a premise and a hypothesis. We perform counterfactual data augmentation (CDA) ([Zhao et al., 2018b)](https://arxiv.org/abs/1804.06876) on the sentences in MultiNLI and STS-B to construct a training set. Datasets you can download from the above link include `train.tsv` for BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), and BLEURT (BERT-base).
 
 ### Train
+The following example add and train a debias adapter in the BERT-large of BERTScore. A single 24GB GPU (RTX 3090) is used for the example so we recommend you to use similar or better equipments. Please note that you should download the corresponding [dataset](https://drive.google.com/drive/folders/1rqPw_h6_0CxgL4LY2LhBPMR2RODnMnv6?usp=sharing) described above.
+
+```bash
+cd Metric-Fairness/mitigating_bias/train/BERTScore
+pip install -r requirements.txt
+INPUT_PATH= train.tsv # your dataset path
+python train_BERTScore.py 
+    --model_type bert-large-uncased \
+    --adapter_name debiased-bertscore \
+    --lr 5e-4 \
+    --warmup 0.0 \
+    --batch_size 16 \
+    --n_epochs 4 \
+    --seed 42 \
+    --device cuda \
+    --logging_steps 100 \
+    --data_path ${INPUT_PATH}
+```
 
 
 
