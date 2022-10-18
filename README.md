@@ -176,7 +176,7 @@ Below is an example result:
 +----------------------+-----------------------+------------------+----------------------+
 ```
 
-If without our adapters, this table will be
+If without debiasing adapters, the result should be:
 
 ```
 +----------------------+-----------------------+------------------+----------------------+
@@ -186,13 +186,13 @@ If without our adapters, this table will be
 +----------------------+-----------------------+------------------+----------------------+
 ```
 
-As you can see, our approach mitigates bias in these metrics.
+As you can see, the attached debiasing adapter successfully mitigates bias in these metrics.
 
 #### Performance Evaluation
 
 ##### WMT20
 
-The following example evaluate the original metrics' perfomance in [WMT20](https://aclanthology.org/2020.wmt-1.77/)
+The following example shows how to evaluate the original metrics' perfomance on [WMT20](https://aclanthology.org/2020.wmt-1.77/):
 
 ```bash
 cd Metric-Fairness/mitigating_bias/performance_eval
@@ -203,7 +203,7 @@ python eval_bleurt.py --model_type Elron/bleurt-base-512
 python eval_bart_score.py --model_type facebook/bart-base
 ```
 
-each score of BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), and BLEURT (BERT-base) would result in a table as follow ( take BERTScore BERT-base as an example )
+Below is an example output:
 
 ```
 +--------------------+--------------------+--------------------+-------------------+--------------------+---------------------+--------------------+--------------------+--------------------+--------------------+---------+
@@ -213,7 +213,7 @@ each score of BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), 
 +--------------------+--------------------+--------------------+-------------------+--------------------+---------------------+--------------------+--------------------+--------------------+--------------------+---------+
 ```
 
-Then  the following example evaluate the  metrics' perfomance after added our debias adapters in [WMT20](https://aclanthology.org/2020.wmt-1.77/)
+Then the following example shows how to evaluate the metrics' perfomance after attaching our debiasing adapters on [WMT20](https://aclanthology.org/2020.wmt-1.77/):
 
 ```bash
 BERT_SCORE_BERT_LARGE_ADAPTER_PATH=BERTScore/BERT-large/adapter # bert_score_bert_large adapter path
@@ -240,7 +240,7 @@ In like wise, each score of BERTScore (both BERT-base and BERT-large), BARTScore
 
 ```
 
-It can be seen that our adapters has little impact on performance.
+
 
 ##### RealSumm
 
