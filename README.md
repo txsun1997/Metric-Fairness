@@ -145,7 +145,7 @@ python train_BERTScore.py
     --data_path ${INPUT_PATH}
 ```
 
-
+When  training finished, a debias adapter will be saved in `./adapter/`, and you can check more training details in `./logs` see [fitlog](https://fitlog.readthedocs.io/zh/latest/)
 
 ### Test
 
