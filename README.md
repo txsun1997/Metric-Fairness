@@ -156,7 +156,7 @@ When  training finished, a debias adapter will be saved in `./adapter/`, and you
 
 We have trained debias adapters for BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), and BLEURT (BERT-base), and you can download these adapters' checkpoints by the link above.
 
-The following example adds our trained debias adapters to BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), and BLEURT (BERT-base) , and calculates the bias scores after debasing on our test set in `Metric-Fairness/mitigating_bias/test/test_data` [(WinoBias)](https://doi.org/10.18653/v1/n18-2003). Also you should download the corresponding [adapter](https://drive.google.com/drive/folders/1nqTQWXtf14SXZ5pC0hK5kBa28q9h-0-y?usp=sharing) described above first.
+The following example adds our trained debias adapters to BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), and BLEURT (BERT-base) , and calculates the bias scores after debasing on our test set in `Metric-Fairness/mitigating_bias/test/test_data` [(WinoBias)](https://doi.org/10.18653/v1/n18-2003). Also you should download the corresponding [adapters](https://drive.google.com/drive/folders/1nqTQWXtf14SXZ5pC0hK5kBa28q9h-0-y?usp=sharing) described above first.
 
 ```bash
 cd Metric-Fairness/mitigating_bias/test
@@ -172,7 +172,7 @@ python cal_debias_scores.py
     --bart_score_bart_base_adapter_path ${BART_SCORE_BART_BASE_ADAPTER_PATH}
 ```
 
-would result in a tiny table
+would result in a tiny table.
 
 ```
 +----------------------+-----------------------+------------------+----------------------+
@@ -182,7 +182,17 @@ would result in a tiny table
 +----------------------+-----------------------+------------------+----------------------+
 ```
 
-### Performance Evaluation
+If without our adapters, this table will be
+
+```
++----------------------+-----------------------+------------------+----------------------+
+| bert_score_bert_base | bert_score_bert_large | bleurt_bert_base | bart_score_bart_base |
++----------------------+-----------------------+------------------+----------------------+
+|         8.73         |          4.39         |       30.0       |         3.67         |
++----------------------+-----------------------+------------------+----------------------+
+```
+
+As you can see, our approach mitigates bias in these metrics.
 
 ## Citation
 
