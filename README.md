@@ -206,7 +206,11 @@ python eval_bart_score.py --model_type facebook/bart-base
 Below is an example output:
 
 ```
-
++-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+---------+
+| cs-en | de-en | iu-en | ja-en | km-en | pl-en | ps-en | ru-en | ta-en | zh-en | average |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+---------+
+| 0.746 | 0.793 | 0.663 | 0.882 | 0.971 | 0.356 | 0.928 | 0.858 | 0.833 | 0.929 |  0.796  |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+---------+
 ```
 
 Then the following example shows how to evaluate the metrics' perfomance after attaching our debiasing adapters on [WMT20](https://aclanthology.org/2020.wmt-1.77/):
@@ -233,7 +237,11 @@ python eval_bart_score.py
 In like wise, each score of BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), and BLEURT (BERT-base) would result in a table as follow ( also take BERTScore BERT-base as an example )
 
 ```
-
++-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+---------+
+| cs-en | de-en | iu-en | ja-en | km-en | pl-en | ps-en | ru-en | ta-en | zh-en | average |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+---------+
+| 0.758 | 0.786 | 0.639 | 0.873 |  0.97 | 0.364 | 0.932 | 0.862 | 0.832 | 0.925 |  0.794  |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+---------+
 ```
 
 
