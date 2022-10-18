@@ -195,7 +195,7 @@ As you can see, the attached debiasing adapter successfully mitigates bias in th
 The following example shows how to evaluate the original metrics' perfomance on [WMT20](https://aclanthology.org/2020.wmt-1.77/):
 
 ```bash
-cd Metric-Fairness/mitigating_bias/performance_eval
+cd Metric-Fairness/mitigating_bias/performance_eval/WMT
 pip install -r requirements.txt
 python eval_bert_score.py --model_type bert-base-uncased 
 python eval_bert_score.py --model_type bert-large-uncased 
@@ -244,9 +244,25 @@ In like wise, each score of BERTScore (both BERT-base and BERT-large), BARTScore
 +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+---------+
 ```
 
+##### REALSumm
 
+For the sake of time, we provide the pkl file directly, run
 
-##### RealSumm
+```bash
+cd Metric-Fairness/mitigating_bias/performance_eval/REALSumm
+pip install -r requirements.txt
+python analyse_pkls.py
+```
+
+and you will get scores like
+
+```
++------------------------------+----------------------+------------------------------+----------------------+-------------------------------+-----------------------+--------------------------+------------------+
+| bart_score_bart_base_adapter | bart_score_bart_base | bert_score_bert_base_adapter | bert_score_bert_base | bert_score_bert_large_adapter | bert_score_bert_large | bleurt_bert_base_adapter | bleurt_bert_base |
++------------------------------+----------------------+------------------------------+----------------------+-------------------------------+-----------------------+--------------------------+------------------+
+|            0.307             |        0.325         |            0.473             |        0.465         |             0.468             |         0.464         |           0.4            |      0.299       |
++------------------------------+----------------------+------------------------------+----------------------+-------------------------------+-----------------------+--------------------------+------------------+
+```
 
 If you use our data or code, please cite:
 
