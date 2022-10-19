@@ -1,5 +1,21 @@
 # Metric Fairness: Is BERTScore Fair?
-This repository contains the code and data for our EMNLP paper [BERTScore is Unfair: On Social Bias in Language Model-Based Metrics for Text Generation](https://arxiv.org/abs/2210.07626).
+This repository contains the code, data, and pre-trained checkpoints for our EMNLP paper [BERTScore is Unfair: On Social Bias in Language Model-Based Metrics for Text Generation](https://arxiv.org/abs/2210.07626).
+
+## Quick Links
+
+- [Overview](#overview)
+- [Measure Metric Bias](#measure-metric-bias)
+- [Mitigate Metric Bias](#mitigate-metric-bias)
+  - [Train](#train)
+    - [Datasets](#datasets)
+
+  - [Test](#test)
+    - [Adapters](#adapters)
+  - [Performance Evaluation](#performance-evaluation)
+    - [WMT20](#wmt20)
+    - [REALSUMM](#realsumm)
+- [Citation](#citation)
+
 
 ## Overview
 
@@ -188,9 +204,9 @@ If without debiasing adapters, the result should be:
 
 As you can see, the attached debiasing adapter successfully mitigates bias in these metrics.
 
-#### Performance Evaluation
+### Performance Evaluation
 
-##### WMT20
+#### WMT20
 
 The following example shows how to evaluate the original metrics' perfomance on [WMT20](https://aclanthology.org/2020.wmt-1.77/):
 
@@ -213,7 +229,7 @@ Below is an example output:
 +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+---------+
 ```
 
-Then the following example shows how to evaluate the metrics' perfomance after attaching our debiasing adapters on [WMT20](https://aclanthology.org/2020.wmt-1.77/):
+The following example shows how to evaluate the metrics' perfomance after attaching our debiasing adapters on [WMT20](https://aclanthology.org/2020.wmt-1.77/):
 
 ```bash
 BERT_SCORE_BERT_LARGE_ADAPTER_PATH=BERTScore/BERT-large/adapter # bert_score_bert_large adapter path
@@ -234,7 +250,7 @@ python eval_bart_score.py
     --adapter_path ${BART_SCORE_BART_BASE_ADAPTER_PATH}
 ```
 
-In like wise, each score of BERTScore (both BERT-base and BERT-large), BARTScore (BART-base), and BLEURT (BERT-base) would result in a table as follow ( also take BERTScore BERT-base as an example )
+Below is an example of performance result:
 
 ```
 +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+---------+
@@ -244,9 +260,9 @@ In like wise, each score of BERTScore (both BERT-base and BERT-large), BARTScore
 +-------+-------+-------+-------+-------+-------+-------+-------+-------+-------+---------+
 ```
 
-##### REALSumm
+#### REALSumm
 
-For the sake of time, we provide the pkl file directly, run
+For the sake of time, we provide the `pkl` file, run
 
 ```bash
 cd Metric-Fairness/mitigating_bias/performance_eval/REALSumm
@@ -254,7 +270,7 @@ pip install -r requirements.txt
 python analyse_pkls.py
 ```
 
-and you will get scores like
+and you will get results like
 
 ```
 +------------------------------+----------------------+------------------------------+----------------------+-------------------------------+-----------------------+--------------------------+------------------+
@@ -263,6 +279,8 @@ and you will get scores like
 |            0.307             |        0.325         |            0.473             |        0.465         |             0.468             |         0.464         |           0.4            |      0.299       |
 +------------------------------+----------------------+------------------------------+----------------------+-------------------------------+-----------------------+--------------------------+------------------+
 ```
+
+## Citation
 
 If you use our data or code, please cite:
 
