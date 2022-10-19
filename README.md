@@ -12,7 +12,7 @@ This repository contains the code, data, and pre-trained checkpoints for our EMN
     - [Adapters](#adapters)
   - [Performance Evaluation](#performance-evaluation)
     - [WMT20](#wmt20)
-    - [REALSUMM](#realsumm)
+    - [REALSumm](#realsumm)
 - [Citation](#citation)
 
 ## Overview
