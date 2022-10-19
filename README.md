@@ -8,14 +8,12 @@ This repository contains the code, data, and pre-trained checkpoints for our EMN
 - [Mitigate Metric Bias](#mitigate-metric-bias)
   - [Train](#train)
     - [Datasets](#datasets)
-
   - [Test](#test)
     - [Adapters](#adapters)
   - [Performance Evaluation](#performance-evaluation)
     - [WMT20](#wmt20)
     - [REALSUMM](#realsumm)
 - [Citation](#citation)
-
 
 ## Overview
 
